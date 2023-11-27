@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MamadGx
+- 👀 I’m Full Stack Developer
+- 🌱 I’m UI, UX Designer
+- 📫 How to reach me ...
+- My Discord Id : itsmamad
+- Wcode Development : https://discord.gg/yszG5hhR2Y

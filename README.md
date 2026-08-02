@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hey 👋, I'm MamadGx</h1>
 
 <h3 align="center">
   Frontend Developer • Network Engineer
